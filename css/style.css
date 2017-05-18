@@ -1,0 +1,13 @@
+.mainContent {
+  padding-top: 20px;
+}
+
+.iconSize {
+  height: 48px;
+  width: 48px;
+  margin-right: 10px;
+}
+
+body {
+  background-color: #fafafa;
+}

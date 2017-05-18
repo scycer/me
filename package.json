@@ -6,22 +6,7 @@
   "repository": "https://github.com/scycer/me",
   "author": "scycer",
   "license": "Unlicense",
-  "scripts": {
-    "dev": "node_modules/.bin/webpack-dev-server",
-    "build": "node_modules/.bin/webpack"
-  },
-  "dependencies": {
-    "inferno": "^3.1.0",
-    "inferno-hyperscript": "^3.1.0"
-  },
-  "devDependencies": {
-    "babel-core": "^6.24.1",
-    "babel-loader": "^7.0.0",
-    "babel-plugin-inferno": "^3.2.0",
-    "babel-preset-env": "^1.4.0",
-    "copy-webpack-plugin": "^4.0.1",
-    "eslint": "^3.19.0",
-    "webpack": "^2.4.1",
-    "webpack-dev-server": "^2.4.5"
-  }
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
 }

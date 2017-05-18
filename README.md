@@ -1,7 +1,7 @@
 # My Portfolio site
 Just a simple page about me and my work
 
-As this is also a simple 1 pager, I decided to experiment in doing this page entirely in JS, both HTML and CSS as well as building it in a one-way data flow architecture.
+As this is also a simple 1 pager, I decided to do this without any framework or jQuery
 
 -------------------------
 ## License
